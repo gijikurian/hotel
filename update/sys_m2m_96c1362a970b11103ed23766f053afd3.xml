@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_m2m">
+    <sys_m2m action="INSERT_OR_UPDATE">
+        <from_table>x_hotel_reservation</from_table>
+        <m2m_from_field>x_hotel_reservation</m2m_from_field>
+        <m2m_from_label>Guests</m2m_from_label>
+        <m2m_table>x_hotel_m2m_x_hotel_rese_x_hotel_gues</m2m_table>
+        <m2m_to_field>x_hotel_guest</m2m_to_field>
+        <m2m_to_label>Reservations</m2m_to_label>
+        <sys_class_name>sys_m2m</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-12 02:25:50</sys_created_on>
+        <sys_id>96c1362a970b11103ed23766f053afd3</sys_id>
+        <sys_name>x_hotel_m2m_x_hotel_rese_x_hotel_gues</sys_name>
+        <sys_package display_value="Hotel" source="x_hotel">a8f395beebc522004fcde08a5206fe2e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hotel">a8f395beebc522004fcde08a5206fe2e</sys_scope>
+        <sys_update_name>sys_m2m_96c1362a970b11103ed23766f053afd3</sys_update_name>
+        <to_table>x_hotel_guest</to_table>
+    </sys_m2m>
+</record_update>

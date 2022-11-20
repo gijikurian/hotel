@@ -7,7 +7,7 @@
         <hint/>
         <name>Hotel</name>
         <order>100</order>
-        <roles>x_hotel.check_in_user</roles>
+        <roles>x_hotel.hotelApp</roles>
         <sys_class_name>sys_app_application</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-10-28 13:27:48</sys_created_on>
